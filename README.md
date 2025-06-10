@@ -4,7 +4,8 @@
 Модели полностью пригодны для расширения на дополнительные наборы данных, их легко модифицировать и переобучать в рамках стандартизированного процесса.
 
 В данный момент модели поддерживают 13 раличных датасетов
-<img src="https://github.com/user-attachments/assets/12216c99-7bbf-4797-9e0c-a0210a154b69" width="300" />
+
+<img src="https://github.com/user-attachments/assets/12216c99-7bbf-4797-9e0c-a0210a154b69" width="400" />
 
 В связи с ограничениями хранилища Github, однозадачные версии моделей и исходные наборы данных для предварительного обучения также доступны на Google Drive по ссылке ниже
 https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing
@@ -15,7 +16,8 @@ A Framework for standardized drug processing along with a family of pre-trained 
 The models are fully extendable to additional datasets and are simple to modify & retrain under a standardized pipeline.
 
 At the moment, the models support 13 different drug datasets
-<img src="https://github.com/user-attachments/assets/12216c99-7bbf-4797-9e0c-a0210a154b69" width="300" />
+
+<img src="https://github.com/user-attachments/assets/12216c99-7bbf-4797-9e0c-a0210a154b69" width="400" />
 
 Due to Github Storage limitations, single-task versions of the models and original pre-training datasets are also available on Google Drive via link below
 https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing
