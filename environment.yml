@@ -289,4 +289,5 @@ dependencies:
       - wrapt==1.17.0
       - xxhash==3.5.0
       - yarl==1.18.3
-prefix: C:\Users\Kamen\anaconda3\envs\Work2
+
+
