@@ -5,7 +5,7 @@ The models are fully extendable to additional datasets and are simple to modify 
 
 At the moment, the models support 13 different drug datasets
 
-<img width="1098" height="680" alt="image" src="https://github.com/user-attachments/assets/80a25315-04a0-475b-a064-8da07dc7a05f" />
+<img width="732" height="453" alt="image" src="https://github.com/user-attachments/assets/80a25315-04a0-475b-a064-8da07dc7a05f" />
 
 ## 🛠️ Setup
 
