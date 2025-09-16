@@ -18,18 +18,34 @@ Create a new environment from the provided YAML file:
 ```bash
 conda env create -f environment.yml
 conda activate myenv
+```
 
 ### Option 2: Pip (alternative)
 
-Install directly from requirements.txt:
-python -m venv venv
-# Activate the virtual environment:
-#   On Linux/Mac:
-source venv/bin/activate
-#   On Windows (PowerShell):
-venv\Scripts\Activate.ps1
+Create a virtual environment:
 
+```bash
+python -m venv venv
+```
+
+Activate the virtual environment:
+
+- **On Linux / macOS**
+```bash
+source venv/bin/activate
+```
+
+- **On Windows (PowerShell)**
+```powershell
+venv\Scripts\Activate.ps1
+```
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
+
 
 
 Due to Github Storage limitations, single-task versions of the models and original pre-training datasets are also available on Google Drive via link below
