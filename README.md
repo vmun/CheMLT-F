@@ -46,25 +46,31 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Datasets
+## 📊 Datasets
 
 All datasets used in this study are publicly available:
 
 - **PubChem** — used for pretraining the molecular encoder.  
-  [ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) 
+  [ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem)  
 
 - **Zenodo** — protein sequences and metadata.  
-  [zenodo.org/records/4300971](https://zenodo.org/records/4300971) 
+  [zenodo.org/records/4300971](https://zenodo.org/records/4300971)  
 
 - **GraphDTA** — drug–target affinity datasets (KIBA and Davis).  
-  [github.com/thinng/GraphDTA](https://github.com/thinng/GraphDTA) 
+  [github.com/thinng/GraphDTA](https://github.com/thinng/GraphDTA)  
 
 - **DeepChem / MoleculeNet** — molecular property and toxicity benchmarks (e.g., BBBP, Tox21, ESOL, FreeSolv, Lipophilicity, etc.).  
-  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html) 
+  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)  
 
+---
 
-Due to Github Storage limitations, single-task versions of the models are available on Google Drive via link below
-https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing
+## 📦 Models
 
+Due to GitHub storage limits, single-task versions of the models are hosted on Google Drive:  
+[Google Drive link](https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing)
 
-For additional questions, please contact the authors
+---
+
+## 📬 Contact
+
+For additional questions, please contact the authors.
