@@ -51,16 +51,16 @@ pip install -r requirements.txt
 All datasets used in this study are publicly available:
 
 - **PubChem** — used for pretraining the molecular encoder.  
-  [ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) (last accessed 11 September 2025)  
+  [ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) 
 
 - **Zenodo** — protein sequences and metadata.  
-  [zenodo.org/records/4300971](https://zenodo.org/records/4300971) (release September 2020)  
+  [zenodo.org/records/4300971](https://zenodo.org/records/4300971) 
 
 - **GraphDTA** — drug–target affinity datasets (KIBA and Davis).  
-  [github.com/thinng/GraphDTA](https://github.com/thinng/GraphDTA) (last accessed 11 September 2025)  
+  [github.com/thinng/GraphDTA](https://github.com/thinng/GraphDTA) 
 
 - **DeepChem / MoleculeNet** — molecular property and toxicity benchmarks (e.g., BBBP, Tox21, ESOL, FreeSolv, Lipophilicity, etc.).  
-  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html) (last accessed 11 September 2025)  
+  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html) 
 
 
 Due to Github Storage limitations, single-task versions of the models are available on Google Drive via link below
