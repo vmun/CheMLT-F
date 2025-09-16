@@ -7,6 +7,30 @@ At the moment, the models support 13 different drug datasets
 
 <img width="1098" height="680" alt="image" src="https://github.com/user-attachments/assets/80a25315-04a0-475b-a064-8da07dc7a05f" />
 
+## 🛠️ Setup
+
+This project provides **two ways** to install dependencies:
+
+### Option 1: Conda (recommended)
+
+Create a new environment from the provided YAML file:
+
+```bash
+conda env create -f environment.yml
+conda activate myenv
+
+### Option 2: Pip (alternative)
+
+Install directly from requirements.txt:
+python -m venv venv
+# Activate the virtual environment:
+#   On Linux/Mac:
+source venv/bin/activate
+#   On Windows (PowerShell):
+venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
 
 Due to Github Storage limitations, single-task versions of the models and original pre-training datasets are also available on Google Drive via link below
 https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing
