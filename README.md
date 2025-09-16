@@ -12,7 +12,4 @@ Due to Github Storage limitations, single-task versions of the models and origin
 https://drive.google.com/drive/folders/1SWQ5K7EoaCpyg5s7yqRQHveTy4unsusr?usp=sharing
 
 
-This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
-
-**Non-commercial use only.**  
 For additional questions, please contact the authors
