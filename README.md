@@ -60,7 +60,10 @@ All datasets used in this study are publicly available:
   [github.com/thinng/GraphDTA](https://github.com/thinng/GraphDTA)  
 
 - **DeepChem / MoleculeNet** — molecular property and toxicity benchmarks (e.g., BBBP, Tox21, ESOL, FreeSolv, Lipophilicity, etc.).  
-  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)  
+  [deepchem.readthedocs.io](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
+
+- **Protein Superfamily Benchmark** — external benchmark for evaluating generalization across protein families (enzyme, epigenetic regulator, GPCR, ion channel, kinase, nuclear receptor, transporter).  
+  https://zenodo.org/records/10589696
 
 ---
 
