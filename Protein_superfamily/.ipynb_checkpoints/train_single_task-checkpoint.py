@@ -379,7 +379,6 @@ def main():
     with open(TASKS_PATH) as f:
         mmat_tasks = json.load(f)
 
-    # Build ordered_tasks from mmat_tasks
     ordered_tasks = {
         k: {"problem_type": "regression", "num_labels": 1}
         for k in mmat_tasks
@@ -429,8 +428,7 @@ def main():
 
     results_dir = "task_results_SLT" if retrain else "task_results_tune"
     os.makedirs(results_dir, exist_ok=True)
-    
-    # Convert numpy arrays to lists for JSON serialisation
+
     def make_serialisable(obj):
         if isinstance(obj, np.ndarray): return obj.tolist()
         if isinstance(obj, dict):       return {k: make_serialisable(v) for k, v in obj.items()}
@@ -441,7 +439,7 @@ def main():
     torch.save(
         {"train": make_serialisable(train_metrics),
          "eval":  make_serialisable(eval_metrics)},
-        f"task_results/{task_name}_metrics.pt",
+        f"{results_dir}/{task_name}_metrics.pt",
     )
 
     wall_mins = (time.time() - wall_start) / 60
