@@ -74,6 +74,12 @@ All datasets used in this study are publicly available:
 
 ---
 
+## Citation
+
+**Paper:** [CheMLT-F: multitask learning in biochemistry through transformer fusion](https://doi.org/10.1186/s13321-026-01199-1)
+
+If you use this model, please cite the publication.
+
 ## 📦 Models
 
 Due to GitHub storage limits, single-task versions of the models are hosted on Google Drive:  
