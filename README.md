@@ -45,6 +45,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## 🛠️ Important note
 
 Model weights are also available on Hugging Face for more reliable download and distribution:
 
