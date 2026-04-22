@@ -46,6 +46,12 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Model weights are also available on Hugging Face for more reliable download and distribution:
+
+https://huggingface.co/BoulderyBoulder/CheMLT-F
+
+If any GitHub LFS files download incorrectly or appear incomplete, please use the Hugging Face version.
+
 ## 📊 Datasets
 
 All datasets used in this study are publicly available:
